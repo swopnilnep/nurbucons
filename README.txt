@@ -1,24 +1,10 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
+This is a website for 'Nurbu Construction' Pvt. Ltd based in Kathmandu, Nepal. The site is adapted from the Proton template designed by HTML5 UP
+and used with CC 3.0 (Creative Commons License). 
 
 Credits:
+
+	Web Design:
+		Photon by HTML5 UP (aj@lkn.io)
 
 	Demo Images:
 		Unsplash (unsplash.com)
